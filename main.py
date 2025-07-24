@@ -21,7 +21,7 @@ if menu == "Nivel 1":
     st.header("Estructuras indeterminadas")
     st.write("Determinar la reacción en el apoyo B. EI constante")
 
-    st.image("images\E1_ejemplo_2.1.png", caption="Ejemplo 1")
+    st.image("images/E1_ejemplo_2.1.png", caption="Ejemplo 1")
 
     # Input numérico con valor predeterminado (0) y rango de 0 a 100
     P = st.number_input(
